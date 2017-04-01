@@ -235,3 +235,5 @@
 </tbody>
 </table>
 </div>
+
+### Font: https://docs.microsoft.com/en-us/rest/api/storageservices/fileservices/common-rest-api-error-codes
