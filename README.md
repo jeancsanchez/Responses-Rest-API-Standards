@@ -1,4 +1,4 @@
-# Responses-Rest-API-Standards
+# Common REST API Error Codes 
 <div class="content">
 <p class="lf-text-block lf-block" data-lf-anchor-id="8b890c4d5f9b2cbb2d05e85703116ad1:0">The error codes listed in the following table may be returned by an operation on any of the storage services.  <span class="lf-thread-btn"><a class="fycon-action-view" tabindex="0" aria-label="Write a Sidenote" data-lf-anchor-id="8b890c4d5f9b2cbb2d05e85703116ad1:0">+
 </a>
@@ -234,8 +234,4 @@
 </tr>
 </tbody>
 </table>
-<h2 id="see-also">See Also</h2>
-<p class="lf-text-block lf-block" data-lf-anchor-id="ea0bc09f59c232fec9b761d1173126c2:0"> <a href="blob-service-error-codes" data-linktype="relative-path">Blob Service Error Codes</a><br> <a href="queue-service-error-codes" data-linktype="relative-path">Queue Service Error Codes</a><br> <a href="table-service-error-codes" data-linktype="relative-path">Table Service Error Codes</a><br> <a href="troubleshooting-api-operations" data-linktype="relative-path">Troubleshooting API Operations</a><br> <a href="http://go.microsoft.com/fwlink/?LinkId=152845" data-linktype="external">HttpStatusCode Enumeration</a><br> <a href="azure-storage-services-rest-api-reference" data-linktype="relative-path">Storage Services REST</a><span class="lf-thread-btn"><a class="fycon-action-view" tabindex="0" aria-label="Write a Sidenote" data-lf-anchor-id="ea0bc09f59c232fec9b761d1173126c2:0">+
-</a>
-</span></p>
 </div>
